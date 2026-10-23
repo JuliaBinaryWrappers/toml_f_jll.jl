@@ -1,0 +1,178 @@
+[[toml_f]]
+arch = "aarch64"
+git-tree-sha1 = "97ae43bad845380c6caeca925f4ad3988cf06a85"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[toml_f.download]]
+    sha256 = "040f211bcbeec25dd090d98c7f661bb4ed7b25ae7335dd4bfc2b4488f03928b9"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "aarch64"
+git-tree-sha1 = "609482732ddf51aa183fa6014469e01040e1c7df"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "20140a1fcf08dc1af772a4422c47afa91da8fefab84d1a66f50745eb66c1338d"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "aarch64"
+git-tree-sha1 = "9504897e51032cf9a146fbcf57f6e1d107cfeafc"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "fe311419c7273b14923288e8e78e0c6daa53a8e58b8270e4d070410753ac9d14"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.aarch64-linux-musl-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "aarch64"
+git-tree-sha1 = "5fdb81d3338bf4942d928fcac74ac2ad616e91f3"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[toml_f.download]]
+    sha256 = "246dc62ec2ba37ee2bae5ac7e8f495fb15538b46247735887d92d84016716ab1"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0efff40f7efe32f4635a8522decb3397164fc279"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "de500af163fcac7eb4c94c0506eed401d5193c112ff41f6fc3a551054739b7b7"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b5654f37d31f7e27c183f9bc3d5628b87897809"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "fe8839f56e7e1d1b844e293a4aaf2e808743b3a732e5a4371291f3decd52969a"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6bf0cb00917296f414c45c7064e1583a6c218517"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "4cfeef659dcb2b535365a30a760e57715eacbc55b64a5f4e85e0afec36512ea6"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "43c3a9247f932b96e2c7567afc6ff2879fcde910"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "99792cd6c7a99777977f67b13bec06c9f645e22b70cd86293a46190b03458d97"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "i686"
+git-tree-sha1 = "b1743206bf852ca4daf2860c7c31b6a8adb096da"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "f8ae86fb06bca6ad0a897204d329823ac2efcd3e8063890cc89750834c21abf4"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "i686"
+git-tree-sha1 = "e5c8d5eb38d8977102f4d48ddfa22cdb6539eb08"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "f978e6228464ac771d3fe256a2a111532dceef575c7df9707b4ad41e45f8057f"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.i686-linux-musl-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "i686"
+git-tree-sha1 = "91aeae7ce949183e57ef0be85f903c9e67da486e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[toml_f.download]]
+    sha256 = "7f7047e9584d6b5f2a791596ab19f900177031f938d75e78de568e7292cda2f2"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.i686-w64-mingw32-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "powerpc64le"
+git-tree-sha1 = "a869254a8b00061bf93c90c11b079a5da4add6fd"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "bb06a6514bd50cd385b4da0fccca6144209ef783c5c8ce852b3dfd7736450fbf"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "riscv64"
+git-tree-sha1 = "64195dd6d5abf4770fb56a7ef588b1f47672e42d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "ff6204aed1b12728c43bedb6ea9d36d3eb9ec4a89f703c98f02d7b19f5809d70"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "x86_64"
+git-tree-sha1 = "08643fb731720ea2aae3880aa189b015b956eef5"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[toml_f.download]]
+    sha256 = "2a2e10789ceb1c3e712109fb2743b7b2dc6fa10f4efcbf599ef14b8e0dbd0f8a"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "x86_64"
+git-tree-sha1 = "d51338941de1f6b73c72438e1bacba01e63524ba"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "7ea1fb433e107346bd4ea5b3eb9e1b702f76d3449502b7b1cf70667bb5b5579c"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "x86_64"
+git-tree-sha1 = "93993e05f43e16b73eae12d5bd649e3e9e34a3c9"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[toml_f.download]]
+    sha256 = "c437a38c28c92b5fdbca2d2ce612ff69536982d8fd21b5f84bf6c59d00ccf6eb"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.x86_64-linux-musl-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "x86_64"
+git-tree-sha1 = "c60076465fe35ee40f1bca7ce942162af8675af7"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[toml_f.download]]
+    sha256 = "935dc9f5a161a8065b83d74bcd5cdf4415f9e37d7f3f7b416a95c0f1eb7fd47c"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[toml_f]]
+arch = "x86_64"
+git-tree-sha1 = "650d409f16ce805eda1293df0eaa37cb7deaafb8"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[toml_f.download]]
+    sha256 = "1a56311c141aedbb54c3a92eaa10d994cf4c5723eaa7369b58bca88a5982f6d1"
+    url = "https://github.com/JuliaBinaryWrappers/toml_f_jll.jl/releases/download/toml_f-v0.5.2+0/toml_f.v0.5.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
